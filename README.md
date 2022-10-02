@@ -25,9 +25,8 @@ https://user-images.githubusercontent.com/85648404/193474433-438cc2f6-3e92-42a9-
 Good Luck👍🏻✨
 
 If you've any suggestion you can reach me here<a href="mailto:ruba.yahya01@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=ruba.yahya01@gmail.com&color=white&style=flat&logo=gmail" />
-    
-     <a href="https://twitter.com/ruba_99_/">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=ruba.yahya01@gmail.com&color=white&style=flat&logo=gmail" /> 
+</a> <a href="https://twitter.com/ruba_99_/">
     <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Ruba_?style=social&label=@ruba_99_">
 </a>
   
@@ -54,9 +53,7 @@ If you've any suggestion you can reach me here<a href="mailto:ruba.yahya01@gmail
 
 اذا كانت لديك اي اقتراحات او ملاحظات يمكنك التواصل معي هنا <a href="mailto:ruba.yahya01@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=ruba.yahya01@gmail.com&color=white&style=flat&logo=gmail" />
-</a>
-
-<a href="https://twitter.com/ruba_99_/">
+</a> <a href="https://twitter.com/ruba_99_/">
     <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Ruba_?style=social&label=@ruba_99_">
 </a>
 
